@@ -1,0 +1,32 @@
+{
+  "registrationFrom1":  {
+    "firstName": "AutoTestFirstName",
+    "lastName": "AutoTestLastName",
+    "companyName": "AutoTestCompanyName",
+    "email": "test.test",
+    "emailDomain": "@xeneta.com",
+    "phone": "1234567",
+    "jobTitle": "AutoTestJobTitle",
+    "companyType": "Other"
+  },
+  "registrationFrom2": {
+    "firstName": "AutoTestFirstName",
+    "lastName": "AutoTestLastName",
+    "companyName": "AutoTestCompanyName",
+    "email": "test.test",
+    "emailDomain": "@xeneta.com",
+    "phone": "",
+    "jobTitle": "",
+    "companyType": ""
+  },
+  "registrationFrom3": {
+    "firstName": "AutoTestFirstName",
+    "lastName": "AutoTestLastName",
+    "companyName": "AutoTestCompanyName",
+    "email": "test.test",
+    "emailDomain": "@xeneta.com",
+    "phone": "",
+    "jobTitle": "AutoTestJobTitle",
+    "companyType": "Other"
+  }
+}
