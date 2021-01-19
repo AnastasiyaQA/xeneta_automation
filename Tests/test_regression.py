@@ -1,4 +1,3 @@
-import time
 from pytest import mark
 
 from steps.demo_steps import submit_1to1_demo_request
