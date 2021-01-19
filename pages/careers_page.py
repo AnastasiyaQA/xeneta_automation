@@ -7,7 +7,6 @@ from .base_page import BasePage
 class CareersPage(BasePage):
     url = 'https://www.xeneta.com/careers'
 
-
     # Our values section elements
 
     @property
