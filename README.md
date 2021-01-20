@@ -10,7 +10,7 @@ The column 'Include in Automation?' contains marks for test cases, implemented i
 https://docs.google.com/spreadsheets/d/1Ocbi64agpmkASymGNPHcQcFhcUU40sP7Y1FQWZLXgug/edit?usp=sharing
 
 
-##To run the project please do the following (for Windows OS):
+## To run the project please do the following (for Windows OS):
 
 1. Clone repository
 2. Create virtual environment for the project.
