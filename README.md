@@ -15,7 +15,9 @@ https://docs.google.com/spreadsheets/d/1Ocbi64agpmkASymGNPHcQcFhcUU40sP7Y1FQWZLX
 1. Clone repository
 2. Create virtual environment for the project.
 3. Install all reqirements with the following command:
+```bash
   pip install -r requirements.txt
+```
 4. Download Chromedriver.exe which is compatible with your Chrome Browser version.
 5. Go to Environmental Variables on your computer and add PATH = [path to downloaded ChromeDriver]
 6. Open 'Terminal' in Pycharm run test cases with simple command: 
